@@ -22,3 +22,4 @@ Also in context menu of file/editor you will see two additional items: upload fi
 
 
 It's recommended to install also [language-demandware](https://atom.io/packages/language-demandware) for syntax highlight of Demandware files.
+Test
